@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vape Shop - Your Vape Destination</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <!-- Header Section -->
+    <header>
+        <div class="Logo">
+            <h1>Vape Shop</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#products">Products</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home" class="section">
+        <h2>Welcome to Jason Vape Shop</h2>
+        <p>Discover the best vaping products and accessories in town. Quality, variety, and customer satisfaction guaranteed!</p>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about" class="section">
+        <h2>About Us</h2>
+        <p>We are a local vape shop dedicated to offering a wide selection of e-liquids, vape devices, and accessories. Whether you're a beginner or a seasoned vaper, we have the right products for you!</p>
+    </section>
+
+    <!-- Products Section -->            
+   
+
+
+        
+
+            </div>
+            <div class="product">
+                <h3>Disposable Vapes</h3>
+               
+                <DOCTYPE html>
+  <html lang="en">
+      <head>
+          <meta charset="UTF-8"
+          </head>
+          
+          <body>
+              
+              <img src="content://com.android.externalstorage.documents/tree/primary%3AResume%20PT101/document/primary%3AResume%20PT101%2FElf-bar-Main__56192.1694895573.jpg"alt="" width="200" height="200">
+              
+             
+              
+              </body>
+              </html>
+  
+            </div>
+        </div>
+    </section>      <p> 
+
+
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <h2>Contact Us</h2>
+        <p>Visit us today or get in touch for any inquiries!</p>
+        <p><strong>Email:</strong> contact@yourvapeshop.com</p>
+        <p><strong>Phone:</strong> 09368480294</p>
+        <p><strong>Address:</strong> Maligaya St, Mabini, Pangasinan,</p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 Your Vape Shop. All rights reserved.</p>
+    </footer>
+</body>
+</html>
